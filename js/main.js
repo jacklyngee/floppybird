@@ -15,7 +15,7 @@
    limitations under the License.
 */
 
-var debugmode = false;
+var debugmode = true;
 
 var states = Object.freeze({
    SplashScreen: 0,

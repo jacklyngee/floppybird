@@ -336,7 +336,7 @@ Screen - Game
    position: absolute;
    top: 0;
    width: 52px;
-   background-image: url('../assets/seaweed pipe new.png');
+   background-image: url('../assets/seaweed upper.png');
    background-repeat: repeat-y;
    background-position: center;
 }

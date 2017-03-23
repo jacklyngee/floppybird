@@ -356,7 +356,7 @@ Screen - Game
    position: absolute;
    bottom: 0;
    width: 52px;
-   background-image: url('../assets/pipe.png');
+   background-image: url('../assets/seaweed pipe new.png');
    background-repeat: repeat-y;
    background-position: center;
 }
@@ -368,7 +368,7 @@ Screen - Game
    top: 0;
    width: 52px;
    height: 26px;
-   background-image: url('../assets/pipe-up.png');
+   background-image: url('../assets/seaweed pipe new.png');
 }
 
 #footer

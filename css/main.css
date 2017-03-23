@@ -190,7 +190,7 @@ Screen - Game
    bottom: 0;
    width: 100%;
    height: 20%;
-   background-image: url('../assets/land.png');
+   background-image: url('../assets/sea land.png');
    background-repeat: repeat-x;
    background-position: 0px 0px;
    background-color: #ded895;

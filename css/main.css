@@ -336,7 +336,7 @@ Screen - Game
    position: absolute;
    top: 0;
    width: 52px;
-   background-image: url('../assets/seaweed pipe.png');
+   background-image: url('../assets/seaweed pipe new.png');
    background-repeat: repeat-y;
    background-position: center;
 }
@@ -348,7 +348,7 @@ Screen - Game
    bottom: 0;
    width: 52px;
    height: 26px;
-   background-image: url('../assets/pipe-down.png');
+   background-image: url('../assets/seaweed pipe.png');
 }
 
 .pipe_lower
@@ -368,7 +368,7 @@ Screen - Game
    top: 0;
    width: 52px;
    height: 26px;
-   background-image: url('../assets/seaweed pipe new.png');
+   background-image: url('../assets/seaweed pipe.png');
 }
 
 #footer

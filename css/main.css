@@ -177,7 +177,7 @@ Screen - Game
    top: -16px;
    height: 16px;
    width: 100%;
-   background-image: url('../assets/ceiling with sand.png');
+   background-image: url('../assets/ceiling sand.png');
    background-repeat: repeat-x;
    
    -webkit-animation: animCeiling 481ms linear infinite;

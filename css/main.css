@@ -177,7 +177,7 @@ Screen - Game
    top: -16px;
    height: 16px;
    width: 100%;
-   background-image: url('../assets/ceiling.png');
+   background-image: url('../assets/sea block.png');
    background-repeat: repeat-x;
    
    -webkit-animation: animCeiling 481ms linear infinite;
